@@ -4,12 +4,12 @@ Skills Learned:
 
 Projects Completed:
 
-# Power BI
+## Power BI
 Skills Learned:
 
 Projects Completed:
 
-# Linux
+### Linux
 Skills Learned:
 
 Projects Completed:
