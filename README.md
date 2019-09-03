@@ -1,25 +1,26 @@
 
-# Github
-Skills Learned:
+## Github
+### Skills Learned:
 
-Projects Completed:
+### Deliverable:
 
 ## Power BI
-Skills Learned:
+### Skills Learned:
 
-Projects Completed:
+### Deliverable:
 
-### Linux
-Skills Learned:
+## Linux
+### Skills Learned:
 
-Projects Completed:
+### Deliverable:
 
-# AWS
-Skills Learned:
+## AWS
+### Skills Learned:
 
-Projects Completed:
+### Deliverable:
 
-# PowerShell
-Skills Learned:
+## PowerShell
+### Skills Learned:
 
-Projects Completed:
+### Deliverable:
+
