@@ -1,5 +1,5 @@
-# /Claire Zehentner 
-# /Technical Skills Resume
+# Claire Zehentner 
+# Technical Skills Resume
 
 Github
 
