@@ -1,12 +1,25 @@
-# Claire Zehentner 
-# Technical Skills Resume
 
-Github
+# Github
+Skills Learned:
 
-Power BI
+Projects Completed:
 
-Linux
+# Power BI
+Skills Learned:
 
-AWS
+Projects Completed:
 
-PowerShell
+# Linux
+Skills Learned:
+
+Projects Completed:
+
+# AWS
+Skills Learned:
+
+Projects Completed:
+
+# PowerShell
+Skills Learned:
+
+Projects Completed:
