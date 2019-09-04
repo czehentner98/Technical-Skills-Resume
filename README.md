@@ -1,47 +1,37 @@
-<details>
-   <summary> # Github </summary>
+# Github 
 
 ### Skills Learned:
-- Creating Github pages and enhancing pages using Jekyll and html
-- Collaboration via: branch creation, commits, and ___
-- Uploading photos, links, etc.
+1. Completed the following courses in the Github Training Lab:
+- Introduction to GitHub
+- Communicating using Markdown
+- Uploading projects to Github
+- GitHub Pages using HTML
+- Managing merge conflicts
+- Reviewing pull requests
+- Securing your workflows
+2. Created a web resume for technical skills using markdown and html. This leveraged different skills such as html programming, uploading and inserting images, and commiting updates to the master branch.
 
-### Deliverable: 
-Established a web resume using templates from Jekyll.
-</details>
 # Power BI
 ### Skills Learned:
 - Lorem ipsum dolor sit amet, assum virtute.
 - Lorem ipsum dolor sit amet, assum virtute.
 - Lorem ipsum dolor sit amet, assum virtute.
-### Deliverable:
-   Lorem ipsum dolor sit amet, ceteros cotidieque nec ne. Ei eos summo discere, has id nibh animal oblique. Eum ad impetus aperiam prompta. Quando adolescens vim at, novum maiestatis sit ut, vix in solum viris conceptam. Mel dicta novum invenire ex, eos iusto soleat dicunt id.
-   Mel ne altera utamur. Sed sanctus verterem postulant ne, eum enim unum mollis at. Soleat pertinax adipiscing sea eu, simul ullamcorper qui ne. Eos an noluisse oporteat assentior, posse ocurreret scriptorem ius et. An semper eligendi recusabo nam.
 
 # Linux
 ### Skills Learned:
 - Lorem ipsum dolor sit amet, assum virtute.
 - Lorem ipsum dolor sit amet, assum virtute.
 - Lorem ipsum dolor sit amet, assum virtute.
-### Deliverable:
-   Lorem ipsum dolor sit amet, ceteros cotidieque nec ne. Ei eos summo discere, has id nibh animal oblique. Eum ad impetus aperiam prompta. Quando adolescens vim at, novum maiestatis sit ut, vix in solum viris conceptam. Mel dicta novum invenire ex, eos iusto soleat dicunt id.
-   Mel ne altera utamur. Sed sanctus verterem postulant ne, eum enim unum mollis at. Soleat pertinax adipiscing sea eu, simul ullamcorper qui ne. Eos an noluisse oporteat assentior, posse ocurreret scriptorem ius et. An semper eligendi recusabo nam.
 
 # AWS
 ### Skills Learned:
 - Lorem ipsum dolor sit amet, assum virtute.
 - Lorem ipsum dolor sit amet, assum virtute.
 - Lorem ipsum dolor sit amet, assum virtute.
-### Deliverable:
-   Lorem ipsum dolor sit amet, ceteros cotidieque nec ne. Ei eos summo discere, has id nibh animal oblique. Eum ad impetus aperiam prompta. Quando adolescens vim at, novum maiestatis sit ut, vix in solum viris conceptam. Mel dicta novum invenire ex, eos iusto soleat dicunt id.
-   Mel ne altera utamur. Sed sanctus verterem postulant ne, eum enim unum mollis at. Soleat pertinax adipiscing sea eu, simul ullamcorper qui ne. Eos an noluisse oporteat assentior, posse ocurreret scriptorem ius et. An semper eligendi recusabo nam.
 
 # PowerShell
 ### Skills Learned:
 - Lorem ipsum dolor sit amet, assum virtute.
 - Lorem ipsum dolor sit amet, assum virtute.
 - Lorem ipsum dolor sit amet, assum virtute.
-### Deliverable:
-   Lorem ipsum dolor sit amet, ceteros cotidieque nec ne. Ei eos summo discere, has id nibh animal oblique. Eum ad impetus aperiam prompta. Quando adolescens vim at, novum maiestatis sit ut, vix in solum viris conceptam. Mel dicta novum invenire ex, eos iusto soleat dicunt id.
-   Mel ne altera utamur. Sed sanctus verterem postulant ne, eum enim unum mollis at. Soleat pertinax adipiscing sea eu, simul ullamcorper qui ne. Eos an noluisse oporteat assentior, posse ocurreret scriptorem ius et. An semper eligendi recusabo nam.
 
