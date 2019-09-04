@@ -1,6 +1,6 @@
 
 ## Github
-### Skills Learned:
+   ### Skills Learned:
      - Creating Github pages and enhancing pages using Jekyll and html
      - Collaboration via: branch creation, commits, and ___
      - Uploading photos, links, etc.
