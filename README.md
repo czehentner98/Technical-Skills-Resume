@@ -1,5 +1,6 @@
+<details>
+   <summary> # Github </summary>
 
-# Github
 ### Skills Learned:
 - Creating Github pages and enhancing pages using Jekyll and html
 - Collaboration via: branch creation, commits, and ___
@@ -7,7 +8,7 @@
 
 ### Deliverable: 
 Established a web resume using templates from Jekyll.
-
+</details>
 # Power BI
 ### Skills Learned:
 - Lorem ipsum dolor sit amet, assum virtute.
