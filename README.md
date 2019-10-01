@@ -18,25 +18,14 @@
 
 # Power BI
 ### Skills and Accomplishments:
-- Lorem ipsum dolor sit amet, assum virtute.
-- Lorem ipsum dolor sit amet, assum virtute.
-- Lorem ipsum dolor sit amet, assum virtute.
+
 
 # Linux
 ### Skills and Accomplishments:
-- Lorem ipsum dolor sit amet, assum virtute.
-- Lorem ipsum dolor sit amet, assum virtute.
-- Lorem ipsum dolor sit amet, assum virtute.
 
 # AWS
 ### Skills and Accomplishments:
-- Lorem ipsum dolor sit amet, assum virtute.
-- Lorem ipsum dolor sit amet, assum virtute.
-- Lorem ipsum dolor sit amet, assum virtute.
 
 # PowerShell
 ### Skills and Accomplishments:
-- Lorem ipsum dolor sit amet, assum virtute.
-- Lorem ipsum dolor sit amet, assum virtute.
-- Lorem ipsum dolor sit amet, assum virtute.
 
