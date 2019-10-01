@@ -29,6 +29,7 @@ Completed the following courses in the Github Training Lab
 
 ### Projects and Deliverables:
 Completed online PowerBI course
+![Proof of Completion](https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Proof%20of%20PowerBI%20Completion.png)
 
 Created a dashboard to model 'New Hire Demographics' for Sample HR data.
 ![Dashboard Picture](https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/HR%20Dashboard.png)
