@@ -31,11 +31,17 @@ Completed the following courses in the Github Training Lab
 </details> 
 <details>
 <summary>Data Visualizations</summary>
-- Developed familiarity with creating standard graphs and charts as well as PowerBI specific graphics like waterfalls and funnel charts
+  - Developed familiarity with creating standard graphs and charts as well as PowerBI specific graphics like waterfalls and funnel charts.
+  - Adding filters/slicers to change reports
+  - Showing max, min, trends, averages, and FORECASTS
+  - Drilling down to look at data visuals in a hierarchy
 </details>  
 <details>
 <summary>Online PowerBI Service</summary>
-  -kjhjh
+  - Used 'Quick Insight Generators. PowerBI uses algorithms to look for significant trends and facts within data.
+  - Pinning visuals from one dashboard to another and embedding media sources and text via widgets.
+  - Organizing navigation pane using featured/favorite dashboards and filtering dashboard based on who created it.
+  - Exposure to setting alerts to track data changes and using the 'Admin Portal' to track user usage.
 </details>  
 <details>
 <summary>Excel Data Imports and Direct Connectivity</summary>
