@@ -10,7 +10,7 @@
 ### Projects and Deliverables:
 <details>
 - <summary>Completed the following courses in the Github Training Lab</summary>
-
+![Day 1](https://i.ibb.co/CQD28hY/Screen-Shot-2019-09-30-at-8-49-46-PM.png)
 </details>
 <details>
 <summary>Created a web resume for technical skills using markdown and html.</summary>
