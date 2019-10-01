@@ -9,10 +9,8 @@
 
 ### Projects and Deliverables:
 <details>
-<summary>Completed the following courses in the Github Training Lab</summary>
-![Day One Image](Screen Shot 2019-09-30 at 8.49.46 PM.png)
-![Week One Image](https://raw.github.com/czehentner98/Technical-Skills-Resume/blob/master/Screen%20Shot%202019-09-30%20at%208.50.11%20PM.png)
-  ![alt text](https://raw.githubusercontent.com/czehentner/Technical-Skills-Resume/Screen%20Shot%202019-09-30%20at%208.50.11%20PM.png)
+- <summary>Completed the following courses in the Github Training Lab</summary>
+
 </details>
 <details>
 <summary>Created a web resume for technical skills using markdown and html.</summary>
