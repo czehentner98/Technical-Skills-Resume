@@ -21,11 +21,26 @@ Completed the following courses in the Github Training Lab
 
 # Power BI
 ### Skills:
-- Data Transformations on the PowerBI Desktop Application
-- Desktop Modeling
-- Data Visualizations
-- Online PowerBI Service
-- Excel Data Imports and Direct Connectivity
+<details>
+<summary>Managing Data Transformations on the PowerBI Desktop Application</summary>
+  -jvjcvuviuv
+</details>  
+<details>
+<summary>Desktop Modeling</summary>
+  -giuiguho
+</details> 
+<details>
+<summary>Data Visualizations</summary>
+- Developed familiarity with creating standard graphs and charts as well as PowerBI specific graphics like waterfalls and funnel charts
+</details>  
+<details>
+<summary>Online PowerBI Service</summary>
+  -kjhjh
+</details>  
+<details>
+<summary>Excel Data Imports and Direct Connectivity</summary>
+  -hviyvyv
+</details> 
 
 ### Projects and Deliverables:
 Completed online PowerBI course
