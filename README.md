@@ -18,14 +18,20 @@ Completed the following courses in the Github Training Lab
    The biggest issue I ran into was getting the headshot image to appear on the page. It was my understanding that in order to get an image to appear in Github, I would have to have the image in my repository and format the source based on its location within my repository. After several failed attempts at getting this to work, I tried adding the web address of the image as the source and the picture began showing up on my page. 
 </details>
 
+
 # Power BI
 ### Skills:
+- Data Transformations on the PowerBI Desktop Application
+- Desktop Modeling
+- Data Visualizations
+- Online PowerBI Service
+- Excel Data Imports and Direct Connectivity
+
 ### Projects and Deliverables:
 Completed online PowerBI course
 
 Created a dashboard to model 'New Hire Demographics' for Sample HR data.
 ![Dashboard Picture](https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/HR%20Dashboard.png)
-
 To see the dashboard in action, watch the video below:
 [![Youtube Video](https://i.ytimg.com/vi/gQOR47AbiPs/hqdefault.jpg)](https://www.youtube.com/watch?v=gQOR47AbiPs&feature=youtu.be)
 
