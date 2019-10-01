@@ -22,6 +22,7 @@
 # Power BI
 ### Skills:
 ### Projects and Deliverables:
+![Dashboard Picture](https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/HR%20Dashboard.png)
 [![Youtube Video](https://i.ytimg.com/vi/gQOR47AbiPs/hqdefault.jpg)](https://www.youtube.com/watch?v=gQOR47AbiPs&feature=youtu.be)
 
 # Linux
