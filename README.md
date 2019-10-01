@@ -8,6 +8,7 @@
 - Securing your workflows
 
 ### Projects and Deliverables:
+![Day 1](https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Screen%20Shot%202019-09-30%20at%208.49.46%20PM.png)
 <details>
 <summary>Completed the following courses in the Github Training Lab</summary>
 ![Day 1](https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Screen%20Shot%202019-09-30%20at%208.49.46%20PM.png)
