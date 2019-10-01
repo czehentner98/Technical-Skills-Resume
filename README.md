@@ -10,6 +10,9 @@
 - Reviewing pull requests
 - Securing your workflows
 
+![Day One Image](https://github.com/czehentner98/Technical-Skills-Resume/blob/master/Screen%20Shot%202019-09-30%20at%208.49.46%20PM.png)
+![Week One Image](https://github.com/czehentner98/Technical-Skills-Resume/blob/master/Screen%20Shot%202019-09-30%20at%208.50.11%20PM.png)
+
 2. Created a web resume for technical skills using markdown and html. 
 
   This leveraged different skills such as html programming, uploading and inserting images, and commiting updates to the master branch. Most of my focus in creating this template was placed on taking the Jekyll template and customizing it. Github has a set of standard themes for webpages, so I was able to find the html file for the "architect" theme and make personal changes from there such as: adding my headshot and personal information to the sidebar, changing the default header (my repository name) to a customized title and subtitle, and formatting text within the body of the page. 
@@ -18,7 +21,7 @@
 
 # Power BI
 ### Skills and Accomplishments:
-
+[![Youtube Video](https://i.ytimg.com/vi/gQOR47AbiPs/hqdefault.jpg)](https://www.youtube.com/watch?v=gQOR47AbiPs&feature=youtu.be)
 
 # Linux
 ### Skills and Accomplishments:
