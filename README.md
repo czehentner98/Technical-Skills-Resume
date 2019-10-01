@@ -22,15 +22,19 @@
 </details>
 
 # Power BI
-### Skills and Accomplishments:
+### Skills:
+### Projects and Deliverables:
 [![Youtube Video](https://i.ytimg.com/vi/gQOR47AbiPs/hqdefault.jpg)](https://www.youtube.com/watch?v=gQOR47AbiPs&feature=youtu.be)
 
 # Linux
-### Skills and Accomplishments:
+### Skills:
+### Projects and Deliverables:
 
 # AWS
-### Skills and Accomplishments:
+### Skills:
+### Projects and Deliverables:
 
 # PowerShell
-### Skills and Accomplishments:
+### Skills:
+### Projects and Deliverables:
 
