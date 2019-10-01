@@ -10,7 +10,7 @@
 ### Projects and Deliverables:
 <details>
 <summary>Completed the following courses in the Github Training Lab</summary>
-![Day One Image](https://github.com/czehentner98/Technical-Skills-Resume/blob/master/Screen%20Shot%202019-09-30%20at%208.49.46%20PM.png)
+![Day One Image](Screen Shot 2019-09-30 at 8.49.46 PM.png)
 ![Week One Image](https://github.com/czehentner98/Technical-Skills-Resume/blob/master/Screen%20Shot%202019-09-30%20at%208.50.11%20PM.png)
 </details>
 <details>
