@@ -23,7 +23,7 @@ Completed the following courses in the Github Training Lab
 ### Skills:
 <details>
 <summary>Managing Data Transformations on the PowerBI Desktop Application</summary>
-  -jvjcvuviuv
+  -
 </details>  
 <details>
 <summary>Desktop Modeling</summary>
@@ -67,7 +67,40 @@ To see the dashboard in action, watch the video below:
 
 # Linux
 ### Skills:
+<details>
+<summary>General Linux Knowledge and Overview of Operating Systems</summary>
+  -
+</details>  
+<details>
+<summary>Open Source Software Basics</summary>
+  -
+</details> 
+<details>
+<summary>Command Line Essentials</summary>
+  - 
+</details>  
+<details>
+<summary>Using the Terminal/Command Line to interact with Files and Directories</summary>
+  - 
+</details>  
+<details>
+<summary>Using BASH for scripting</summary>
+  -
+</details> 
+<details>
+<summary>Understanding Data Storage and Hardware</summary>
+  -
+</details> 
+<details>
+<summary>Security and User Settings in Linux</summary>
+  -
+</details> 
+
 ### Projects and Deliverables:
+Completed online LPI Linux Essentials Certification
+
+![Linux Certificate](https://github.com/czehentner98/Technical-Skills-Resume/blob/master/Linux%20Certificate.PNG?raw=true)
+
 
 # AWS
 ### Skills:
