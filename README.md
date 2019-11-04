@@ -102,6 +102,7 @@ Completed online LPI Linux Essentials Certification
 ![Linux Certificate](https://github.com/czehentner98/Technical-Skills-Resume/blob/master/Linux%20Certificate.PNG?raw=true)
 
 Created a Virtual Private Network (VPN) utilizing Digital Ocean and a Linux VM running Ubuntu
+
 ![DO VPN](https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Digital%20Ocean%20VPN.png)
 
 # AWS
