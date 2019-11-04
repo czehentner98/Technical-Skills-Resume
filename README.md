@@ -138,9 +138,10 @@ Developed familiarity with:
   -SNS lets users create their own "topics" to receive notifications about; whenever a specified event occurs, an email or text message can be sent to any user who subscribes to the SNS messages. AWS also offers several account management tools like CloudWatch and CloudTrail. CloudWatch makes monitoring AWS resources easy by calculating useful metrics for service usage and these metrics can in turn be used to trigger actions, like alarms.
 </details> 
 ### Projects and Deliverables:
+
 Completed online AWS Essentials Certification
 
-![Linux Certificate](https://github.com/czehentner98/Technical-Skills-Resume/blob/master/Linux%20Certificate.PNG?raw=true)
+![AWS Certificate](https://github.com/czehentner98/Technical-Skills-Resume/blob/master/AWS%20Certificate.PNG?raw=true)
 
 # PowerShell
 ### Skills:
