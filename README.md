@@ -150,3 +150,7 @@ Completed online AWS Essentials Certification
 ### Skills:
 ### Projects and Deliverables:
 
+Completed 'LinkedIn Learning' PowerShell Certification
+
+![PowerShell Certificate](https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/PowerShell%20Training.png)
+
