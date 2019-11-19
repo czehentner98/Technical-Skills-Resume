@@ -110,35 +110,35 @@ Created a Virtual Private Network (VPN) utilizing Digital Ocean and a Linux VM r
 Developed familiarity with:
 <details>
 <summary>IAM</summary>
-  - IAM allows you to create user accounts to use the same aws services with you. The five main steps to activate IAM are: deleting root access keys, activating multi-factor authentication key on the root account, create individual IAM users and designate permissions/access on the basis of what they need, use groups to assign permissions, and apply a password policy
+     IAM allows you to create user accounts to use the same aws services with you. The five main steps to activate IAM are: deleting root access keys, activating multi-factor authentication key on the root account, create individual IAM users and designate permissions/access on the basis of what they need, use groups to assign permissions, and apply a password policy
 </details>  
 <details>
 <summary>VPCs</summary>
-  -  A VPC is a private subsection of AWS that you control and put resources into. This is the equivalent of having your own private facebook profile (others can only access it if you give them access). Your VPC also provides internet to AWS. NACL (Network Access Control Lists) are essentially user defined "firewalls" where the user defined the rules for inbound and outbound traffic to the VPC.
+     A VPC is a private subsection of AWS that you control and put resources into. This is the equivalent of having your own private facebook profile (others can only access it if you give them access). Your VPC also provides internet to AWS. NACL (Network Access Control Lists) are essentially user defined "firewalls" where the user defined the rules for inbound and outbound traffic to the VPC.
 </details> 
 <details>
 <summary>EC2 (Elastic Compute Cloud)</summary>
-  -  EC2 creates a vm desktop computer within AWS, allowing you to launch as many or as few virtual servers as you need, configure security, and manage storage. To launch an EC2 Instance INCLUDE STEPS HERE
+     EC2 creates a vm desktop computer within AWS, allowing you to launch as many or as few virtual servers as you need, configure security, and manage storage. To launch an EC2 Instance INCLUDE STEPS HERE
 </details>  
 <details>
 <summary>AWS Storage Services/S3</summary>
-  - S3 is an online bulk storage service that allows the stored items to be accessed from any device. Objects are stored in S3 buckets, and files can be created and stored in these buckets to help organize objects. To decrease latency, choose the region closest to you for your bucket. S3 also allows object versioning and lifecycle management.
+     S3 is an online bulk storage service that allows the stored items to be accessed from any device. Objects are stored in S3 buckets, and files can be created and stored in these buckets to help organize objects. To decrease latency, choose the region closest to you for your bucket. S3 also allows object versioning and lifecycle management.
 </details>  
 <details>
 <summary>Database Services</summary>
-  -  AWS offers two services for the creation of databases: RDS (based on SQL) and DynamoDB (not based on SQL). RDS Databases are stored on private subnets, but ssh tunneling allows EC2 instances to connect these databases to the internet so they can be used. 
+     AWS offers two services for the creation of databases: RDS (based on SQL) and DynamoDB (not based on SQL). RDS Databases are stored on private subnets, but ssh tunneling allows EC2 instances to connect these databases to the internet so they can be used. 
 </details> 
 <details>
 <summary>Route 53</summary>
-  - Can register a domain name via the AWS DNS server.
+     Can register a domain name via the AWS DNS server.
 </details> 
 <details>
 <summary>Lambda</summary>
-  - Creates application code without having to run on a server. Will eventually replace EC2 instances.
+     Creates application code without having to run on a server. Will eventually replace EC2 instances.
 </details> 
 <details>
 <summary>General AWS Account Management</summary>
-  -SNS lets users create their own "topics" to receive notifications about; whenever a specified event occurs, an email or text message can be sent to any user who subscribes to the SNS messages. AWS also offers several account management tools like CloudWatch and CloudTrail. CloudWatch makes monitoring AWS resources easy by calculating useful metrics for service usage and these metrics can in turn be used to trigger actions, like alarms.
+     SNS lets users create their own "topics" to receive notifications about; whenever a specified event occurs, an email or text message can be sent to any user who subscribes to the SNS messages. AWS also offers several account management tools like CloudWatch and CloudTrail. CloudWatch makes monitoring AWS resources easy by calculating useful metrics for service usage and these metrics can in turn be used to trigger actions, like alarms.
 </details> 
 ### Projects and Deliverables:
 
@@ -148,6 +148,34 @@ Completed online AWS Essentials Certification
 
 # PowerShell
 ### Skills:
+<details>
+<summary>Initializing and Customizing PowerShell</summary>
+  -
+</details>  
+<details>
+<summary>Discovering Commands and Getting Help</summary>
+  -
+</details> 
+<details>
+<summary>Working with Snap-ins and Modules</summary>
+  - 
+</details>  
+<details>
+<summary>Using Pipelines</summary>
+  - 
+</details>  
+<details>
+<summary>Using Objects</summary>
+  -
+</details> 
+<details>
+<summary>Scripts and Automation</summary>
+  -
+</details>
+<details>
+<summary>Scalable Management and Remoting</summary>
+  -
+</details>
 ### Projects and Deliverables:
 
 Completed 'LinkedIn Learning' PowerShell Certification
