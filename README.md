@@ -39,7 +39,7 @@ To practice the skills I obtained in this course, I created a dashboard to model
 
 To see the dashboard in action, watch the video below:
 <video controls>
-  <source src="https://www.youtube.com/watch?v=gQOR47AbiPs&feature=youtu.be" type="video/mp4">
+  <source src=" https://youtu.be/gQOR47AbiPs" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
 </details> 
