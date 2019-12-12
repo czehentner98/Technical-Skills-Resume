@@ -63,7 +63,6 @@ To practice the skills I obtained in this course, I created a dashboard to model
 <details>
 <summary><span style="font-family:futura; font-size:2em;">Linux</span></summary>
 <br/>
-<br/>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 <br/>
     
@@ -170,7 +169,7 @@ A major portion of my SalesForce training consisted of completing various Salesf
  
   <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/SF%20Object%20Example.png">
   
-  <li>Importing bulk data and match fields using Data Import Wizard</li>
+  <li>Importing bulk data and matching fields using Data Import Wizard</li>
   
   <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/SF%20Import%20Example.png">
   
