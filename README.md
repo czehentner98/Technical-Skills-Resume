@@ -122,7 +122,7 @@ After completing the AWS Essentials course, I configured the IPSec VPN with AWS,
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
 
-I completed the PowerShell 5 Essential Training through LinkedIn Learning. This training exposed me to the basics of utilizing cmdlets as an administrator to access and automate features of my Windows operating system. It emphasizes the importance of the "get-help" command in order to find useful assistance with syntax, module installation, csv and xml file imports and exports, script writing in ISE instead of in Notepad, etc. Here is a list of the courses I completed:   
+I completed the PowerShell 5 Essential Training through LinkedIn Learning. Powershell is a shell designed for task automation and configuration management. While this can be a powerful and complex tool, this training taught me that accessing most of its features lies in being able to use the "get-help" command effectively. With development of this skill, I was able to research command syntax as well as find information on things like module installation, csv and xml file imports and exports, and script writing in ISE. Here is a list of the courses I completed:   
  <ul>
   <li>Initializing and Customizing PowerShell</li>
   <li>Discovering Commands and Getting Help</li>
@@ -160,18 +160,14 @@ Here are the badges I completed during my training:
 
 
 A major portion of my SalesForce training consisted of completing various Salesforce procedures in a Sandbox environment. Mini projects completed include, but aren't limited to:
-
-- Creating custom objects and fields within a SalesForce app
-
-<img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/SF%20Object%20Example.png">
-
-- Importing bulk data and match fields using Data Import Wizard
-
-<img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/SF%20Import%20Example.png">
-
-- Creating custom dashboards
-
-<img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/SF%20Dashboard%20Example.png">
+ <ul> 
+  <li>Creating custom objects and fields within a SalesForce app</li>
+  <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/SF%20Object%20Example.png">
+  <li>Importing bulk data and match fields using Data Import Wizard</li>
+  <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/SF%20Import%20Example.png">
+  <li>Creating custom dashboards</li>
+  <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/SF%20Dashboard%20Example.png">
+</ul>
 
 </details>
 
