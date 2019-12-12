@@ -3,6 +3,7 @@
 <summary><span style="font-family:futura; font-size:2em;">Github</span></summary>
 
 I completed the "Day One" and "Week One" introductory Github courses through the official Github website. At its most basic level, Github allows for version control of programs and projects through the process of committing changes to new branches and then merging those branches to the master branch once they are complete and functional. Through my training on Github, I am able to use pull requests, commits, and merges to collaborate with others on code, as well as use Markdown in conjunction with html to create and host pages on Github. Here is a list of the courses I completed:
+
  <ul>
   <li>Communicating using Markdown</li>
   <li>Uploading projects to Github</li>
@@ -24,7 +25,7 @@ To practice the skills I learned in these courses, I created and maintained this
 <details>
 <summary><span style="font-family:futura; font-size:2em;">PowerBI</span></summary>
 
-I audited the Analyzing and Visualizing Data with Power BI course available on edX. PowerBI provides a cloud-based platform to clean data, integrating Excel and other applications when necessary to provide real-time analytics and assist in decision making. The following modules taught me methods to transform and interpret various data types and how to strategically utlilize them for visualization on a dashboard or published report.
+I took the Analyzing and Visualizing Data with Power BI course available on edX. PowerBI is a business analytics platform that can import data from many different sources (including Excel, ???, and blank) and give users the ability to create interactive data visualizations, reports, and dashboards. Through my training in PowerBI, I am able to create simple charts and dashboards as well as utilize some of PowerBI's more advanced features such as navigation pane/dashboard customization, customized featured questions, Quick Insights Generator, and specialized PowerBI charts and graphics. Here is a list of the courses I completed:
     
  <ul>
   <li>Managing Data Transformations on the PowerBI Desktop Application</li>
@@ -33,7 +34,7 @@ I audited the Analyzing and Visualizing Data with Power BI course available on e
   <li>Online PowerBI Service</li>
   <li>Excel Data Imports and Direct Connectivity</li>
 </ul> 
-
+Proof of completion:
 <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Proof%20of%20PowerBI%20Completion.png">
 
 To practice the skills I obtained in this course, I created a dashboard to model 'New Hire Demographics' for Sample HR data. To see the dashboard in action, click on the image below:
