@@ -1,54 +1,55 @@
 # Technical Skills
 <details>
-<summary><span style="font-family:Papyrus; font-size:10em;">Github</span></summary>
+<summary><span style="font-family:futura; font-size:5em;">Github</span></summary>
   -
 </details>  
 <details>
-<summary>PowerBI</summary>
+<summary><span style="font-family:futura; font-size:5em;">PowerBI</span></summary>
   -
 </details> 
 <details>
-<summary>Tableau</summary>
+<summary><span style="font-family:futura; font-size:5em;">Tableau</span></summary>
   - 
 </details>  
 <details>
-<summary>Linux</summary>
+<summary><span style="font-family:futura; font-size:5em;">Linux</span></summary>
   - 
 </details>  
 <details>
-<summary>AWS</summary>
+<summary><span style="font-family:futura; font-size:5em;">AWS</span></summary>
   -
 </details> 
 <details>
-<summary>Powershell</summary>
+<summary><span style="font-family:futura; font-size:5em;">Powershell</span></summary>
   -
 </details>
 <details>
-<summary>SalesForce</summary>
+<summary><span style="font-family:futura; font-size:5em;">SalesForce</span></summary>
   -
 </details>
 <details>
-<summary>SAP</summary>
+<summary><span style="font-family:futura; font-size:5em;">SAP</span></summary>
   -
 </details>
+  
 # Programming Experience
 <details>
-<summary>Javascript</summary>
+<summary><span style="font-family:futura; font-size:5em;">Javascript</span></summary>
   - 
 </details>  
 <details>
-<summary>HTML</summary>
+<summary><span style="font-family:futura; font-size:5em;">HTML</span></summary>
   -
 </details> 
 <details>
-<summary>CSS</summary>
+<summary><span style="font-family:futura; font-size:5em;">CSS</span></summary>
   -
 </details>
 <details>
-<summary>SQL</summary>
+<summary><span style="font-family:futura; font-size:5em;">SQL</span></summary>
   -
 </details>
 <details>
-<summary>Python</summary>
+<summary><span style="font-family:futura; font-size:5em;">Python</span></summary>
   -
 </details>
