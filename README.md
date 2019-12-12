@@ -20,6 +20,7 @@ Proof of completion:
 
 <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Screen%20Shot%202019-09-30%20at%208.50.11%20PM.png" alt="Week 1">
 <br/>
+<br/>
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
 <br/>
 To practice the skills I learned in these courses, I created and maintained this technical skills resume on Github using markdown and html. This leveraged different skills such as html programming, uploading and inserting images, and commiting updates to the master branch. Most of my focus in creating this template was placed on taking the Jekyll template and customizing it. Github has a set of standard themes for webpages, so I was able to find the html file for the "architect" theme and make personal changes from there such as: adding my headshot and personal information to the sidebar, changing the default header (my repository name) to a customized title and subtitle, and formatting text within the body of the page.
@@ -32,7 +33,7 @@ To practice the skills I learned in these courses, I created and maintained this
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 <br/>
 
-I took the Analyzing and Visualizing Data with Power BI course available on edX. PowerBI is a business analytics platform that can import data from many different sources (including Excel, ???, and blank) and give users the ability to create interactive data visualizations, reports, and dashboards. Through my training in PowerBI, I am able to create simple charts and dashboards as well as utilize some of PowerBI's more advanced features such as navigation pane/dashboard customization, customized featured questions, Quick Insights Generator, and specialized PowerBI charts and graphics. Here is a list of the courses I completed:
+I took the Analyzing and Visualizing Data with Power BI course available on edX. PowerBI is a business analytics platform that can import data from many different sources (including Excel, csv files, and databases) and give users the ability to create interactive data visualizations, reports, and dashboards. Through my training in PowerBI, I am able to create simple charts and dashboards as well as utilize some of PowerBI's more advanced features such as navigation pane/dashboard customization, customized featured questions, Quick Insights Generator, and specialized PowerBI charts and graphics. Here is a list of the courses I completed:
     
  <ul>
   <li>Managing Data Transformations on the PowerBI Desktop Application</li>
@@ -43,6 +44,7 @@ I took the Analyzing and Visualizing Data with Power BI course available on edX.
 </ul> 
 Proof of completion:
 <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Proof%20of%20PowerBI%20Completion.png">
+<br/>
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
 <br/>
@@ -60,7 +62,8 @@ To practice the skills I obtained in this course, I created a dashboard to model
 
 <details>
 <summary><span style="font-family:futura; font-size:2em;">Linux</span></summary>
-<br/> 
+<br/>
+<br/>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 <br/>
     
@@ -77,6 +80,7 @@ I completed the LPI Linux Essentials course on Linux Academy and became familiar
 </ul> 
 Proof of completion:
 <img src="https://github.com/czehentner98/Technical-Skills-Resume/blob/master/Linux%20Certificate.PNG?raw=true">
+<br/>
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
 <br/>
@@ -106,6 +110,7 @@ I completed the AWS Essentials course on Linux Academy as an introduction to cor
 </ul> 
 Proof of completion:
 <img src="https://github.com/czehentner98/Technical-Skills-Resume/blob/master/AWS%20Certificate.PNG?raw=true">
+<br/>
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
 <br/>
@@ -153,6 +158,7 @@ By completing the Salesforce Admin Beginner training via Trailhead, I have devel
 </ul> 
 Here are the badges I completed during my training:
 <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/screen_shot_2019-12-07_at_4.33.24_pm.png">
+<br/>
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
 <br/>
