@@ -42,6 +42,7 @@ To see the dashboard in action, watch the video below:
   <source src="https://www.youtube.com/watch?v=gQOR47AbiPs&feature=youtu.be" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
+</details> 
 
 <details>
 <summary><span style="font-family:futura; font-size:2em;">Tableau</span></summary>
