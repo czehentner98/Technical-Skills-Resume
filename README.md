@@ -32,16 +32,13 @@ Here is proof of completion:
   <li>Online PowerBI Service</li>
   <li>Excel Data Imports and Direct Connectivity</li>
 </ul> 
+
 <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Proof%20of%20PowerBI%20Completion.png">
 
-To practice the skills I obtained in this course, I created a dashboard to model 'New Hire Demographics' for Sample HR data.
-<img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/HR%20Dashboard.png">
+To practice the skills I obtained in this course, I created a dashboard to model 'New Hire Demographics' for Sample HR data. To see the dashboard in action, click on the image below:
+<a href="https://www.youtube.com/watch?v=gQOR47AbiPs&feature=youtu.be"><img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/HR%20Dashboard.png">
+</a>
 
-To see the dashboard in action, watch the video below:
-<video controls>
-  <source src=" https://youtu.be/gQOR47AbiPs" type="video/mp4">
-Your browser does not support the video tag.
-</video> 
 </details> 
 
 <details>
