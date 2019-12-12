@@ -97,9 +97,9 @@ vpn stuff here
   <li>Initializing and Customizing PowerShell</li>
   <li>Discovering Commands and Getting Help</li>
   <li>Working with Snap-ins and Modules</li>
-  <li>Using Pipelines/li>
+  <li>Using Pipelines</li>
   <li>Using Objects</li>
-  <li>Scripts and Automation/li>
+  <li>Scripts and Automation</li>
   <li>Scalable Management and Remoting</li>
 </ul> 
 
