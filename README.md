@@ -2,7 +2,7 @@
 <details>
 <summary><span style="font-family:futura; font-size:2em;">Github</span></summary>
     
-    This training helped familiarize me with the GitHub platform as whole while exposing me to fundamental tools such as pull requests, commits and merges. I learned how to collaborate with others (rather than simply upload and edit my own code) and utilize my personal respositories to maintain things like this technical resume. GitHub will prove extremely useful in the future for building pieces of more complex systems and referring to public examples of solutions when necessary. Here is a list of the courses I took:
+This training helped familiarize me with the GitHub platform as whole while exposing me to fundamental tools such as pull requests, commits and merges. I learned how to collaborate with others (rather than simply upload and edit my own code) and utilize my personal respositories to maintain things like this technical resume. GitHub will prove extremely useful in the future for building pieces of more complex systems and referring to public examples of solutions when necessary. Here is a list of the courses I took:
     
  <ul>
   <li>Communicating using Markdown</li>
@@ -23,7 +23,7 @@ Here is proof of completion:
 <details>
 <summary><span style="font-family:futura; font-size:2em;">PowerBI</span></summary>
 
-    I audited the Analyzing and Visualizing Data with Power BI course available on edX. PowerBI provides a cloud-based platform to clean data, integrating Excel and other applications when necessary to provide real-time analytics and assist in decision making. The following modules taught me methods to transform and interpret various data types and how to strategically utlilize them for visualization on a dashboard or published report.
+I audited the Analyzing and Visualizing Data with Power BI course available on edX. PowerBI provides a cloud-based platform to clean data, integrating Excel and other applications when necessary to provide real-time analytics and assist in decision making. The following modules taught me methods to transform and interpret various data types and how to strategically utlilize them for visualization on a dashboard or published report.
     
  <ul>
   <li>Managing Data Transformations on the PowerBI Desktop Application</li>
@@ -49,7 +49,7 @@ To practice the skills I obtained in this course, I created a dashboard to model
 <details>
 <summary><span style="font-family:futura; font-size:2em;">Linux</span></summary>
     
-    Completing the LPI Linux Essentials course on Linux Academy introduced me to the Linux kernel, command line syntax, and the overall Linux Operating System. I was not very familiar with the implications of open-source applications before completing this training. It was helpful guidance for installing and configuring while also focusing on the security side of things with permissions (public and private directories) as an administrator. Here is a list of the courses I took:
+Completing the LPI Linux Essentials course on Linux Academy introduced me to the Linux kernel, command line syntax, and the overall Linux Operating System. I was not very familiar with the implications of open-source applications before completing this training. It was helpful guidance for installing and configuring while also focusing on the security side of things with permissions (public and private directories) as an administrator. Here is a list of the courses I took:
     
  <ul>
   <li>General Linux Knowledge and Overview of Operating Systems</li>
@@ -70,7 +70,7 @@ Created a Virtual Private Network (VPN) utilizing Digital Ocean and a Linux VM r
 <details>
 <summary><span style="font-family:futura; font-size:2em;">AWS</span></summary>
     
-    Completing the AWS Essentials course on Linux Academy introduced me to the core AWS services and the process of setting up my own AWS account, applying new concepts to real-world scenarios. The course utilizes an example project called "Project Omega" that helps walk through and demonstrate a lot of the features that the AWS platform has to offer, which I found very beneficial and applicable. It really opened my eyes to the endless resources and capabilities AWS users have and helped me understand the "why" behind so many organizations moving towards it. Here is a list of the courses I took:
+Completing the AWS Essentials course on Linux Academy introduced me to the core AWS services and the process of setting up my own AWS account, applying new concepts to real-world scenarios. The course utilizes an example project called "Project Omega" that helps walk through and demonstrate a lot of the features that the AWS platform has to offer, which I found very beneficial and applicable. It really opened my eyes to the endless resources and capabilities AWS users have and helped me understand the "why" behind so many organizations moving towards it. Here is a list of the courses I took:
     
  <ul>
   <li>IAM</li>
@@ -91,7 +91,7 @@ vpn stuff here
 <details>
 <summary><span style="font-family:futura; font-size:2em;">Powershell</span></summary>
 
-   Completing the PowerShell 5 Essential Training through LinkedIn Learning helped expose me to the basics of utilizing cmdlets as an administrator to access and automate features of my Windows operating system. It emphasizes the importance of the "get-help" command in order to find useful assistance with syntax, module installation, csv and xml file imports and exports, script writing in ISE instead of in Notepad, etc. I also appreciated how the course covered how to set execution policies on the security side of things as well as an overview of variable and array creation.Here is a list of the courses I took:
+Completing the PowerShell 5 Essential Training through LinkedIn Learning helped expose me to the basics of utilizing cmdlets as an administrator to access and automate features of my Windows operating system. It emphasizes the importance of the "get-help" command in order to find useful assistance with syntax, module installation, csv and xml file imports and exports, script writing in ISE instead of in Notepad, etc. I also appreciated how the course covered how to set execution policies on the security side of things as well as an overview of variable and array creation.Here is a list of the courses I took:
     
  <ul>
   <li>Initializing and Customizing PowerShell</li>
@@ -109,7 +109,8 @@ vpn stuff here
 
 <details>
 <summary><span style="font-family:futura; font-size:2em;">SalesForce</span></summary>
-    In completing the Salesforce Admin Beginner Trailhead, I learned some of the basics of customization in Salesforce. Through working on the individual badges, I was introduced to navigating use cases, understanding the architecture, creating objects, fields and relationships, importing and exporting data, user interface customization as well as the process of creating visualizations of key business metrics. This exposure helped me develop a better understanding of cloud technology in general. Courses completed include:
+    
+In completing the Salesforce Admin Beginner Trailhead, I learned some of the basics of customization in Salesforce. Through working on the individual badges, I was introduced to navigating use cases, understanding the architecture, creating objects, fields and relationships, importing and exporting data, user interface customization as well as the process of creating visualizations of key business metrics. This exposure helped me develop a better understanding of cloud technology in general. Courses completed include:
  
  <ul> 
   <li>Salesforce Platform Basics</li>
