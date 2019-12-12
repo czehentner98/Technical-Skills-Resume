@@ -163,9 +163,15 @@ A major portion of my SalesForce training consisted of completing various Salesf
 
 - Creating custom objects and fields within a SalesForce app
 
-- Importing and Exporting Data
+<img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/SF%20Object%20Example.png">
 
-- Creating custom reports and dashboards
+- Importing bulk data and match fields using Data Import Wizard
+
+<img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/SF%20Import%20Example.png">
+
+- Creating custom dashboards
+
+<img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/SF%20Dashboard%20Example.png">
 
 </details>
 
