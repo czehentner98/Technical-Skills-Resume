@@ -1,6 +1,6 @@
 # Technical Skills
 <details>
-<summary>Github</summary>
+<summary><span style="font-family:Papyrus; font-size:10em;">Github</span></summary>
   -
 </details>  
 <details>
