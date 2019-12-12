@@ -73,15 +73,18 @@ Created a Virtual Private Network (VPN) utilizing Digital Ocean and a Linux VM r
 Completing the AWS Essentials course on Linux Academy introduced me to the core AWS services and the process of setting up my own AWS account, applying new concepts to real-world scenarios. The course utilizes an example project called "Project Omega" that helps walk through and demonstrate a lot of the features that the AWS platform has to offer, which I found very beneficial and applicable. It really opened my eyes to the endless resources and capabilities AWS users have and helped me understand the "why" behind so many organizations moving towards it. Here is a list of the courses I took:
     
  <ul>
-  <li>IAM</li>
-  <li>VPCs</li>
-  <li>EC2</li>
-  <li>AWS Storage Services/S3</li>
-  <li>Database Services</li>
+  <li>Identity and Access Management (IAM)</li>
+  <li>Virtual Private Cloud (VPC)</li>
+  <li>Elastic Cloud Compute (EC2)</li>
+  <li>Storage Services (S3)</li>
+  <li>Databases</li>
+  <li>Elastic Load Balancer (ELB)</li>
+  <li>Auto Scaling</li>
   <li>Route 53</li>
   <li>Lambda</li>
   <li>General AWS Account Management</li>
 </ul> 
+
 Here is proof of completion:
 <img src="https://github.com/czehentner98/Technical-Skills-Resume/blob/master/AWS%20Certificate.PNG?raw=true">
 
@@ -123,7 +126,7 @@ In completing the Salesforce Admin Beginner Trailhead, I learned some of the bas
 </ul> 
 
 Here are the badges I completed during my training:
-<img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/PowerShell%20Training.png">
+<img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/screen_shot_2019-12-07_at_4.33.24_pm.png">
 
 </details>
 
