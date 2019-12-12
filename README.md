@@ -109,14 +109,20 @@ I completed the AWS Essentials course on Linux Academy as an introduction to cor
 Proof of completion:
 <img src="https://github.com/czehentner98/Technical-Skills-Resume/blob/master/AWS%20Certificate.PNG?raw=true">
 
-vpn stuff here
+<span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
+
+After completing the AWS Essentials course, I configured the IPSec VPN with AWS, deploying on EC2.
+<img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/ec2%20vpn.png">
+
 </details> 
 
 <details>
 <summary><span style="font-family:futura; font-size:2em;">Powershell</span></summary>
+ 
+<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 
-Completing the PowerShell 5 Essential Training through LinkedIn Learning helped expose me to the basics of utilizing cmdlets as an administrator to access and automate features of my Windows operating system. It emphasizes the importance of the "get-help" command in order to find useful assistance with syntax, module installation, csv and xml file imports and exports, script writing in ISE instead of in Notepad, etc. I also appreciated how the course covered how to set execution policies on the security side of things as well as an overview of variable and array creation.Here is a list of the courses I took:
-    
+
+I completed the PowerShell 5 Essential Training through LinkedIn Learning. This training exposed me to the basics of utilizing cmdlets as an administrator to access and automate features of my Windows operating system. It emphasizes the importance of the "get-help" command in order to find useful assistance with syntax, module installation, csv and xml file imports and exports, script writing in ISE instead of in Notepad, etc. Here is a list of the courses I completed:   
  <ul>
   <li>Initializing and Customizing PowerShell</li>
   <li>Discovering Commands and Getting Help</li>
@@ -126,16 +132,18 @@ Completing the PowerShell 5 Essential Training through LinkedIn Learning helped 
   <li>Scripts and Automation</li>
   <li>Scalable Management and Remoting</li>
 </ul> 
-
+Proof of Completion:
 <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/PowerShell%20Training.png">
 
 </details>
 
 <details>
 <summary><span style="font-family:futura; font-size:2em;">SalesForce</span></summary>
-    
-In completing the Salesforce Admin Beginner Trailhead, I learned some of the basics of customization in Salesforce. Through working on the individual badges, I was introduced to navigating use cases, understanding the architecture, creating objects, fields and relationships, importing and exporting data, user interface customization as well as the process of creating visualizations of key business metrics. This exposure helped me develop a better understanding of cloud technology in general. Courses completed include:
- 
+
+<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+
+
+By completing the Salesforce Admin Beginner training via Trailhead, I have developed an understanding of the basics of Salesforce and app customization within Salesforce. Essentially, Salesforce allows different departments of a company to view and manage relationships with customers with customizable apps. This training has given me an in-depth introduction to understanding the layout of Salesforce as well as Salesforce functionalities like creating custom objects, fields, and relationships; establishing global and object specific actions; customizing user experience and assistance features; and creating visualizations of key business metrics. Here is a list of the courses I completed:
  <ul> 
   <li>Salesforce Platform Basics</li>
   <li>Data Modeling</li>
@@ -145,9 +153,19 @@ In completing the Salesforce Admin Beginner Trailhead, I learned some of the bas
   <li>Reports and Dashboards for Lightening Experience</li>
   <li>Scalable Management and Remoting</li>
 </ul> 
-
 Here are the badges I completed during my training:
 <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/screen_shot_2019-12-07_at_4.33.24_pm.png">
+
+<span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
+
+
+A major portion of my SalesForce training consisted of completing various Salesforce procedures in a Sandbox environment. Mini projects completed include, but aren't limited to:
+
+- Creating custom objects and fields within a SalesForce app
+
+- Importing and Exporting Data
+
+- Creating custom reports and dashboards
 
 </details>
 
