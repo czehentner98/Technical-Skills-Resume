@@ -1,4 +1,5 @@
-# Github 
+# Technical Skills
+## Github 
 ### Skills:
 - Communicating using Markdown
 - Uploading projects to Github
@@ -19,7 +20,7 @@ Completed the following courses in the Github Training Lab
 </details>
 
 
-# Power BI
+## Power BI
 ### Skills:
 <details>
 <summary>Managing Data Transformations on the PowerBI Desktop Application</summary>
@@ -65,7 +66,7 @@ Created a dashboard to model 'New Hire Demographics' for Sample HR data.
 To see the dashboard in action, watch the video below:
 [![Youtube Video](https://i.ytimg.com/vi/gQOR47AbiPs/hqdefault.jpg)](https://www.youtube.com/watch?v=gQOR47AbiPs&feature=youtu.be)
 
-# Linux
+## Linux
 ### Skills:
 <details>
 <summary>General Linux Knowledge and Overview of Operating Systems</summary>
@@ -105,7 +106,7 @@ Created a Virtual Private Network (VPN) utilizing Digital Ocean and a Linux VM r
 
 ![DO VPN](https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Digital%20Ocean%20VPN.png)
 
-# AWS
+## AWS
 ### Skills:
 Developed familiarity with:
 <details>
@@ -146,7 +147,7 @@ Completed online AWS Essentials Certification
 
 ![AWS Certificate](https://github.com/czehentner98/Technical-Skills-Resume/blob/master/AWS%20Certificate.PNG?raw=true)
 
-# PowerShell
+## PowerShell
 ### Skills:
 <details>
 <summary>Initializing and Customizing PowerShell</summary>
@@ -181,4 +182,6 @@ Completed online AWS Essentials Certification
 Completed 'LinkedIn Learning' PowerShell Certification
 
 ![PowerShell Certificate](https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/PowerShell%20Training.png)
+
+# Programming Experience
 
