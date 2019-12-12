@@ -61,7 +61,7 @@ To practice the skills I obtained in this course, I created a dashboard to model
   <li>Security and User Settings in Linux</li>
 </ul> 
 Here is proof of completion:
-<img src="https://github.com/czehentner98/Technical-Skills-Resume/blob/master/Linux%20Certificate.PNG">
+<img src="https://github.com/czehentner98/Technical-Skills-Resume/blob/master/Linux%20Certificate.PNG?raw=true">
 
 Created a Virtual Private Network (VPN) utilizing Digital Ocean and a Linux VM running Ubuntu
 <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Digital%20Ocean%20VPN.png">
@@ -83,7 +83,7 @@ Created a Virtual Private Network (VPN) utilizing Digital Ocean and a Linux VM r
   <li>General AWS Account Management</li>
 </ul> 
 Here is proof of completion:
-<img src="https://github.com/czehentner98/Technical-Skills-Resume/blob/master/AWS%20Certificate.PNG">
+<img src="https://github.com/czehentner98/Technical-Skills-Resume/blob/master/AWS%20Certificate.PNG?raw=true">
 
 vpn stuff here
 </details> 
