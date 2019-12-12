@@ -1,9 +1,8 @@
 # Technical Skills
 <details>
 <summary><span style="font-family:futura; font-size:2em;">Github</span></summary>
-    
-This training helped familiarize me with the GitHub platform as whole while exposing me to fundamental tools such as pull requests, commits and merges. I learned how to collaborate with others (rather than simply upload and edit my own code) and utilize my personal respositories to maintain things like this technical resume. GitHub will prove extremely useful in the future for building pieces of more complex systems and referring to public examples of solutions when necessary. Here is a list of the courses I took:
-    
+
+I completed the "Day One" and "Week One" introductory Github courses through the official Github website. At its most basic level, Github allows for version control of programs and projects through the process of committing changes to new branches and then merging those branches to the master branch once they are complete and functional. Through my training on Github, I am able to use pull requests, commits, and merges to collaborate with others on code, as well as use Markdown in conjunction with html to create and host pages on Github. Here is a list of the courses I completed:
  <ul>
   <li>Communicating using Markdown</li>
   <li>Uploading projects to Github</li>
@@ -12,11 +11,13 @@ This training helped familiarize me with the GitHub platform as whole while expo
   <li>Reviewing pull requests</li>
   <li>Securing your workflows</li>
 </ul> 
-Here is proof of completion:
+Proof of completion:
 
 <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Screen%20Shot%202019-09-30%20at%208.49.46%20PM.png" alt="Day 1">
 
 <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Screen%20Shot%202019-09-30%20at%208.50.11%20PM.png" alt="Day 1">
+
+To practice the skills I learned in these courses, I created and maintained this technical skills resume on Github using markdown and html. This leveraged different skills such as html programming, uploading and inserting images, and commiting updates to the master branch. Most of my focus in creating this template was placed on taking the Jekyll template and customizing it. Github has a set of standard themes for webpages, so I was able to find the html file for the "architect" theme and make personal changes from there such as: adding my headshot and personal information to the sidebar, changing the default header (my repository name) to a customized title and subtitle, and formatting text within the body of the page.
 
 </details> 
 
