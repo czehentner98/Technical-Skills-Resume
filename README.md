@@ -57,7 +57,25 @@ To practice the skills I obtained in this course, I created a dashboard to model
 
 <details>
 <summary><span style="font-family:futura; font-size:2em;">Tableau</span></summary>
+<br/> 
+<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+<br/>
+I studied the chapters and completed the hands-on projects from "Tableau Analytics in the Accounting Classroom" by Charles Hooper. Tableau is very similar in function to PowerBI; it focuses and data visualization and analytics, but with a different layout and several different functionalities. Completing this coursework helped augment my understanding of data visualization on a different platform, while illustrating how to maximize its utility for accounting. Here is a list of the chapters I completed:
+<ul>
+  <li>Connecting to Data</li>
+  <li>Basic Chart Types</li>
+  <li>Filtering Data</li>
+  <li>Sorting Data</li>
+  <li>Calculated Fields</li>
+  <li>Parameters</li>
+  <li>Hierarchies</li>
+  <li>Dashboards</li>
+</ul> 
 
+<br/>
+<span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
+<br/>
+I created two Tableau workbooks to demonstrate the skills I gained across these 8 chapters. 
 </details>  
 
 <details>
@@ -113,7 +131,7 @@ Proof of completion:
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
 <br/>
-After completing the AWS Essentials course, I configured the IPSec VPN with AWS, deploying on EC2.
+After completing the AWS Essentials course, I configured a VPN with AWS, deploying on EC2.
 <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/ec2%20vpn.png">
 
 </details> 
