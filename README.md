@@ -249,9 +249,10 @@ Results and recommendations for both projects were accepted by management.
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 <br/>
-I completed an pre-AP Python course as my first introduction to programming. In addition to gaining knowledge about general coding logic and algorithms, I learned Python syntax for many different elements of coding such as declaring variables, creating loops, using tuples/dictionaries, indexing strings, and creating/calling functions. I also gained experience working with packages and modules like Tkinter (for creating simple GUIs) and pygame.
+I completed an pre-AP Python course as my first introduction to programming. In addition to gaining knowledge about general coding logic and algorithms, I learned Python syntax for many different elements of coding such as declaring variables, creating loops, using tuples/dictionaries, indexing strings, and creating/calling functions. I also gained experience working with packages and modules like Tkinter (for creating simple GUIs) and pygame. Lessons I completed throughout this class include:
 <br/>
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
 <br/>
+In addition to completing mini-projects in conjunction with every lesson, I created a missle-launching game (similar to Galaga) utilizing python, pygame, and homemade sprites. In the game, the user would have to defend their 6 castles at the bottom of the screen by shooting down missles before they reach the structures. As the game progresses, the missiles move faster and generate more quickly. This project was an excellent experience in coordinating visual displays with program function as well as working in a small team of other programmers. 
 </details>
