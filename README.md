@@ -237,6 +237,7 @@ While I have designed smaller scale webpage projects, this technical skills resu
 <br/>
 I completed a upper-level college course called "Database Application and Design". The course provided me with an introduction to the principles of designing a database like drawing Entity-Relationship Diagrams (ERDs), mapping ERDs into tables, and using relational algebra to design queries. Additionally, I learned and became familiar with SQL syntax for creating databases, tables, and individual records as well as advanced querying using SQL. Finally, I gained experience designing a front-end portion of a database using Microsoft Access. 
 <br/>
+<br/>
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
 <br/>
 As a part of this course, I designed a database from scatch for a fictional company, "Electronic Recycler". This project included drawing an ERD to illustrate the flow of data within their electronic rental/purchase/sale process, mapping this diagram into a table schema, using SQL to build a backend database based on the table schema, and creating a front-end for the database in Access.
@@ -247,7 +248,7 @@ As a part of this course, I designed a database from scatch for a fictional comp
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 <br/>
-I completed an pre-AP Python course as my first introduction to programming. In addition to gaining knowledge about general coding logic and object-oriented programming, I learned Python syntax for many different elements of coding such as declaring variables, creating loops, using tuples/dictionaries, indexing strings, and creating/calling functions. I also gained experience working with packages and modules like Tkinter (for creating simple GUIs) and pygame. Lessons I completed throughout this class include:
+I completed a pre-AP Python course as my first introduction to programming. In addition to gaining knowledge about general coding logic and object-oriented programming, I learned Python syntax for many different elements of coding such as declaring variables, creating loops, using tuples/dictionaries, indexing strings, and creating/calling functions. I also gained experience working with packages and modules like Tkinter (for creating simple GUIs) and pygame. Lessons I completed throughout this class include:
 <ul> 
   <li>Types, Variables, and Simple IO</li>
   <li>Branching, Loops, and Program Planning</li>
