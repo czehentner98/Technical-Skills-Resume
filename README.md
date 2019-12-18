@@ -200,7 +200,11 @@ A major portion of my SalesForce training consisted of completing various Salesf
 
 <details>
 <summary><span style="font-family:futura; font-size:2em;">SAP</span></summary>
-  -
+<br/>
+<span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
+<br/>
+While I haven't completed and technical training in SAP, I used it extensively during my Financial Performance and Analysis internship with Phillips 66. SAP was integral to both of my main projects during the summer. I facilitated the Biennial Fixed Asset Review by pulling asset data from several locations within SAP, organizing this data into reports in Excel, and maintaining communications with several different business units. Additionally, I became familiar with financial reporting in SAP by assisting with Month End closing for the Major Projects division; I verified costs posted to the SAP database and analyzed these actuals compared to the Year-to-Date budgeted values in SAP. <br/>
+Results and recommendations for both projects were accepted by management.
 </details>
   
 # Programming Experience
