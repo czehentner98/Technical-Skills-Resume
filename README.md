@@ -213,27 +213,22 @@ Results and recommendations for both projects were accepted by management.
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 <br/>
+I've taken two consecutive college-level programming classes tailored to applying coding concepts in a business environment. The primary programming language used in these courses was Javascript, so I've become accustomed to complex looping, creating functions, and linking source code to html files with Javascript.
 <br/>
-<span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
+I received an A in both courses. 
 <br/>
 </details>  
 <details>
-<summary><span style="font-family:futura; font-size:2em;">HTML</span></summary>
+<summary><span style="font-family:futura; font-size:2em;">HTML & CSS</span></summary>
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+<br/>
+As part of my business programming skills classes, I used html and CSS to create aesthetic GUIs for my Javascript programs. I learned how to use header, div, and paragraph elements to display text on basic webpages and create style attributes in css for the different html elements to provide them with visually pleasing formatting. I can also create more complex interface items and displayed elements such as inserting image/video to a webpage and creating buttons and text boxes for user input. 
 <br/>
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
 <br/>
-</details> 
-<details>
-<summary><span style="font-family:futura; font-size:2em;">CSS</span></summary>
-<br/>
-<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
-<br/>
-<br/>
-<span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
-<br/>
+While I have designed smaller scale webpage projects, this technical skills resume is a good example of my abilities in both html and css.
 </details>
 <details>
 <summary><span style="font-family:futura; font-size:2em;">SQL</span></summary>
@@ -249,7 +244,18 @@ Results and recommendations for both projects were accepted by management.
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 <br/>
-I completed an pre-AP Python course as my first introduction to programming. In addition to gaining knowledge about general coding logic and algorithms, I learned Python syntax for many different elements of coding such as declaring variables, creating loops, using tuples/dictionaries, indexing strings, and creating/calling functions. I also gained experience working with packages and modules like Tkinter (for creating simple GUIs) and pygame. Lessons I completed throughout this class include:
+I completed an pre-AP Python course as my first introduction to programming. In addition to gaining knowledge about general coding logic and object-oriented programming, I learned Python syntax for many different elements of coding such as declaring variables, creating loops, using tuples/dictionaries, indexing strings, and creating/calling functions. I also gained experience working with packages and modules like Tkinter (for creating simple GUIs) and pygame. Lessons I completed throughout this class include:
+<ul> 
+  <li>Types, Variables, and Simple IO</li>
+  <li>Branching, Loops, and Program Planning</li>
+  <li>Strings and Tuples</li>
+  <li>Lists and Dictionaries</li>
+  <li>Functions</li>
+  <li>Software Objects</li>
+  <li>Object-Oriented Programming</li>
+  <li>GUI Development</li>
+  <li>Graphics</li>
+</ul> 
 <br/>
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
