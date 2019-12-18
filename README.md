@@ -228,16 +228,19 @@ As part of my business programming skills classes, I used html and CSS to create
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
 <br/>
-While I have designed smaller scale webpage projects, this technical skills resume is a good example of my abilities in both html and css.
+While I have designed smaller scale webpage projects, this technical skills resume is a good example of my abilities utilizing both html and css.
 </details>
 <details>
 <summary><span style="font-family:futura; font-size:2em;">SQL</span></summary>
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 <br/>
+I completed a upper-level college course called "Database Application and Design". The course provided me with an introduction to the principles of designing a database like drawing Entity-Relationship Diagrams (ERDs), mapping ERDs into tables, and using relational algebra to design queries. Additionally, I learned and became familiar with SQL syntax for creating databases, tables, and individual records as well as advanced querying using SQL. Finally, I gained experience designing a front-end portion of a database using Microsoft Access. 
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
 <br/>
+As a part of this course, I designed a database from scatch for a fictional company, "Electronic Recycler". This project included drawing an ERD to illustrate the flow of data within their electronic rental/purchase/sale process, mapping this diagram into a table schema, using SQL to build a backend database based on the table schema, and creating a front-end for the database in Access.
+
 </details>
 <details>
 <summary><span style="font-family:futura; font-size:2em;">Python</span></summary>
@@ -256,7 +259,6 @@ I completed an pre-AP Python course as my first introduction to programming. In 
   <li>GUI Development</li>
   <li>Graphics</li>
 </ul> 
-<br/>
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
 <br/>
