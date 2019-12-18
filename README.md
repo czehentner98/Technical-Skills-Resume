@@ -210,21 +210,48 @@ Results and recommendations for both projects were accepted by management.
 # Programming Experience
 <details>
 <summary><span style="font-family:futura; font-size:2em;">Javascript</span></summary>
-  - 
+<br/>
+<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+<br/>
+<br/>
+<span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
+<br/>
 </details>  
 <details>
 <summary><span style="font-family:futura; font-size:2em;">HTML</span></summary>
-  -
+<br/>
+<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+<br/>
+<br/>
+<span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
+<br/>
 </details> 
 <details>
 <summary><span style="font-family:futura; font-size:2em;">CSS</span></summary>
-  -
+<br/>
+<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+<br/>
+<br/>
+<span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
+<br/>
 </details>
 <details>
 <summary><span style="font-family:futura; font-size:2em;">SQL</span></summary>
-  -
+<br/>
+<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+<br/>
+<br/>
+<span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
+<br/>
 </details>
 <details>
 <summary><span style="font-family:futura; font-size:2em;">Python</span></summary>
-  -
+<br/>
+<span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
+<br/>
+I completed an pre-AP Python course as my first introduction to programming. In addition to gaining knowledge about general coding logic and algorithms, I learned Python syntax for many different elements of coding such as declaring variables, creating loops, using tuples/dictionaries, indexing strings, and creating/calling functions. I also gained experience working with packages and modules like Tkinter (for creating simple GUIs) and pygame.
+<br/>
+<br/>
+<span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
+<br/>
 </details>
