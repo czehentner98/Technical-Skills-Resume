@@ -219,9 +219,7 @@ Results and recommendations for both projects were accepted by management.
 <br/>
 <span style="font-family:futura; font-size:1.5em;">Skills & Training</span>
 <br/>
-I've taken two consecutive college-level programming classes tailored to applying coding concepts in a business environment. The primary programming language used in these courses was Javascript, so I've become accustomed to complex looping, creating functions, and linking source code to html files with Javascript.
-<br/>
-I received an A in both courses. 
+I've taken two consecutive college-level programming classes tailored to applying coding concepts in a business environment. The primary programming language used in these courses was Javascript, so I've become accustomed to complex looping, creating functions, and linking source code to html files with Javascript. 
 <br/>
 </details>  
 <details>
