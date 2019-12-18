@@ -240,7 +240,7 @@ I completed a upper-level college course called "Database Application and Design
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
 <br/>
 As a part of this course, I designed a database from scatch for a fictional company, "Electronic Recycler". This project included drawing an ERD to illustrate the flow of data within their electronic rental/purchase/sale process, mapping this diagram into a table schema, using SQL to build a backend database based on the table schema, and creating a front-end for the database in Access.
-
+<img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Lab%20Back%20end.png">
 </details>
 <details>
 <summary><span style="font-family:futura; font-size:2em;">Python</span></summary>
