@@ -76,6 +76,12 @@ I studied the chapters and completed the hands-on projects from "Tableau Analyti
 <span style="font-family:futura; font-size:1.5em;">Projects & Experience</span>
 <br/>
 I created two Tableau workbooks to demonstrate the skills I gained across these 8 chapters. 
+<ul>
+  <li>Sample from Chapters 1-4</li>
+  <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Tableau%20Proof%201.PNG">
+  <li>Sample from Chapters 5-8</li>
+  <img src="https://raw.githubusercontent.com/czehentner98/Technical-Skills-Resume/master/Tableau%20Proof%202.PNG">
+</ul> 
 </details>  
 
 <details>
